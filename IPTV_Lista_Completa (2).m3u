@@ -1,0 +1,48 @@
+#EXTM3U
+
+# Streaming Pago (placeholders)
+#EXTINF:-1 group-title="Streaming Pago",Netflix
+https://app.netflix.com
+
+#EXTINF:-1 group-title="Streaming Pago",Disney+
+https://www.disneyplus.com
+
+#EXTINF:-1 group-title="Streaming Pago",Amazon Prime Video
+https://www.primevideo.com
+
+#EXTINF:-1 group-title="Streaming Pago",Max
+https://www.max.com
+
+#EXTINF:-1 group-title="Streaming Pago",Globoplay
+https://globoplay.globo.com
+
+#EXTINF:-1 group-title="Streaming Pago",Paramount+
+https://www.paramountplus.com
+
+#EXTINF:-1 group-title="Streaming Pago",Looke
+https://www.looke.com.br
+
+#EXTINF:-1 group-title="Streaming Pago",Telecine
+https://globoplay.globo.com/canais-ao-vivo/telecine
+
+# Streaming Gratuito
+#EXTINF:-1 group-title="Streaming Gratuito",Pluto TV - Filmes
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3df8f179fd47001f9e1342/master.m3u8
+
+#EXTINF:-1 group-title="Streaming Gratuito",TV Brasil
+https://playout.cdn.srv.globo/TVBRASIL/playlist.m3u8
+
+#EXTINF:-1 group-title="Streaming Gratuito",TV Cultura
+https://streaming.cultura.com.br:443/live/cultura/playlist.m3u8
+
+#EXTINF:-1 group-title="Streaming Gratuito",Record News
+https://stream3.recordnews.tv/recordnews/recordnews/playlist.m3u8
+
+#EXTINF:-1 group-title="Streaming Gratuito",TV Câmara
+https://stream3.camara.leg.br/tv1/manifest.m3u8
+
+#EXTINF:-1 group-title="Streaming Gratuito",Canal Futura
+https://globoplay.globo.com/canais-ao-vivo/futura
+
+#EXTINF:-1 group-title="Streaming Gratuito",Canal Empreender
+https://cdn.jmvstream.com/live/canalempreender/canalempreender/playlist.m3u8
